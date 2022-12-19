@@ -1,4 +1,4 @@
-![logo](https://github.com/nilesh1996b/nilesh1996b.github.io/blob/master/Github%20Banner.png)
+![logo](https://github.com/nilesh1996b/nilesh1996b/blob/main/github%20banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Nilesh Bind</h1>
 <h3 align="center">A passionate Full Stack Java Backend developer</h3>
