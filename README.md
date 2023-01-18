@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/1wuyX2YwaO790pAKj8JI_idsIyy4rRwHh/view?usp=sharing)
+
 
 <h1 align="center">Hi 👋, I'm Nilesh Bind</h1>
 <h3 align="center">A passionate Full Stack Java Backend developer</h3>
